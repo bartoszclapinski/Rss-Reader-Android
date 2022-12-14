@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "47809683924",
+    "firebase_url": "https://rssreader-d90c0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rssreader-d90c0",
+    "storage_bucket": "rssreader-d90c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47809683924:android:13efea09ff3e38bffb7641",
+        "android_client_info": {
+          "package_name": "com.example.rssreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47809683924-208tkndquk3eko0depadobde7l4hds50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rssreader",
+            "certificate_hash": "daa8333ad0be50a12efd28d8884772e3921304ea"
+          }
+        },
+        {
+          "client_id": "47809683924-u9rsrkced59dujuheqite8r1vj192lng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUaZItr2D1WtzWFc0iA60BFQ2-kiiit4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47809683924-u9rsrkced59dujuheqite8r1vj192lng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

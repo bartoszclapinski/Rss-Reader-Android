@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RssReader</string>
+    <string name="default_web_client_id2" translatable="false">47809683924-u9rsrkced59dujuheqite8r1vj192lng.apps.googleusercontent.com</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">LOGIN</string>
+    <string name="welcome_to_rss_reader_app">Welcome To RSS Reader App</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_account_yet">Don\'t have an account yet?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="logged_as">Logged as</string>
+    <string name="logout">Logout</string>
+    <string name="favorites">Favorites</string>
+    <string name="back_to_main">Back to main</string>
+    <string name="your_favorite_articles">Your Favorite Articles</string>
+    <string name="remove">Remove</string>
+    <string name="content">Content</string>
+    <string name="_2022_06_23_15_00_00">2022-06-23 15:00:00</string>
+    <string name="title">Title</string>
+</resources>
